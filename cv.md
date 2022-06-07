@@ -27,7 +27,7 @@ let result = sum(1, 2);
 alert( result );
 ```
 
-## __Experience.__
+## __Experience__
 
 ## __Education__ 
 - __University:__ Belarusian National Technical University, Energy Engineer
