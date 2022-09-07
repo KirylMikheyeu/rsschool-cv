@@ -4,7 +4,7 @@
 
 ## __Contacts__
 - __Location:__ Minsk, Belarus
-- __Phone:__ +375 29 115-37-75
+- __Phone:__ +376 29 115-37-75
 - __Email:__ mamonity@gmail.com
 - __GitHub:__ [KirylMikheyeu](https://github.com/KirylMikheyeu)
 
